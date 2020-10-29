@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 ![idisfkj's github stats](https://github-readme-stats.vercel.app/api?username=idisfkj&show_icons=true)
 ![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=idisfkj&layout=compact&card_width=445)
+
+
+MobCoderHuang
+
+![idisfkj's github stats](https://github-readme-stats.vercel.app/api?username=MobCoderHuang&show_icons=true)
+![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=MobCoderHuang&layout=compact&card_width=445)
